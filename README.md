@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Full Stack Java Development.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me ...
+- 
 
 <!---
 Mlucas02/Mlucas02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
